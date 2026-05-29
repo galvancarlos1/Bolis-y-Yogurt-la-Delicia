@@ -23,7 +23,7 @@ import fNegroPedestal from "@/assets/real-filtro-negro-pedestal.png";
 import fBlancoClassic from "@/assets/real-filtro-blanco-classic.png";
 import fFresa from "@/assets/real-filtro-fresa.png";
 import fGotita from "@/assets/real-filtro-gotita.png";
-import fChefElectro from "@/assets/real-filtro-chef-electro.png";
+import fChefElectro from "@/assets/real-filtro-chef.png";
 
 const WA = "https://wa.me/573007169644";
 const waLink = (msg: string) => `${WA}?text=${encodeURIComponent(msg)}`;
